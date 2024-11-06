@@ -1,0 +1,5 @@
+baseURL = 'https://malasys.github.io/malasys/'
+publishDir = "docs"
+languageCode = 'en'
+title = 'intro'
+theme = "blowfish"
