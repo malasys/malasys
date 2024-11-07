@@ -65,7 +65,7 @@ jobs:
         with:
           path: ./public
 
-  # Deployment job
+  # Deployment jo
   deploy:
     environment:
       name: github-pages
