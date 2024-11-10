@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = ""
+title = "Malasy"
 
 [params]
   displayName = "English"
@@ -12,7 +12,7 @@ title = ""
   description = "Some kind of Magic."
 
 [params.author]
-  name = "dob"
+  name = "Malasy"
   email = ""
   image = "img/profile.png"
   headline = "Some kind of Magic."

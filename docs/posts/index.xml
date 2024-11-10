@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>https://malasys.github.io/malasys/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Posts on Malasy</title>
+    <link>http://localhost:1313/malasys/posts/</link>
+    <description>Recent content in Posts on Malasy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 dob</copyright>
-    <lastBuildDate>Tue, 05 Nov 2024 23:12:25 +0900</lastBuildDate><atom:link href="https://malasys.github.io/malasys/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Malasy</copyright>
+    <lastBuildDate>Tue, 05 Nov 2024 23:12:25 +0900</lastBuildDate><atom:link href="http://localhost:1313/malasys/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about me</title>
-      <link>https://malasys.github.io/malasys/posts/about-me/</link>
+      <link>http://localhost:1313/malasys/posts/about-me/</link>
       <pubDate>Tue, 05 Nov 2024 23:12:25 +0900</pubDate>
       
-      <guid>https://malasys.github.io/malasys/posts/about-me/</guid>
-      <description>&lt;p&gt;just1ssue&lt;/p&gt;</description>
+      <guid>http://localhost:1313/malasys/posts/about-me/</guid>
+      <description>&lt;p&gt;geek&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>My First Posts</title>
-      <link>https://malasys.github.io/malasys/posts/my-first-posts/</link>
+      <link>http://localhost:1313/malasys/posts/my-first-posts/</link>
       <pubDate>Tue, 05 Nov 2024 23:12:25 +0900</pubDate>
       
-      <guid>https://malasys.github.io/malasys/posts/my-first-posts/</guid>
+      <guid>http://localhost:1313/malasys/posts/my-first-posts/</guid>
       <description></description>
       
     </item>
