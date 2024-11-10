@@ -20,5 +20,6 @@ title = "Malasy"
   links = [
     { x-twitter = "https://twitter.com/" },
     { github = "https://github.com/malasys" },
-    { youtube = "https://www.youtube.com/@d0bu_" }
+    { youtube = "https://www.youtube.com/@d0bu_" },
+    { link = "https://open.spotify.com/user/31l4paqmh2fkwks64nf4234iiw7m?si=39f422e839bd4402"},
   ]
