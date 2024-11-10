@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/malasys/</loc>
+    <loc>https://malasys.github.io/malasys/</loc>
     <lastmod>2024-11-05T23:12:25+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/malasys/posts/</loc>
+    <loc>https://malasys.github.io/malasys/posts/about-me/</loc>
+    <lastmod>2024-11-05T23:12:25+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://malasys.github.io/malasys/posts/my-first-posts/</loc>
+    <lastmod>2024-11-05T23:12:25+09:00</lastmod>
+  </url>
+  <url>
+    <loc>https://malasys.github.io/malasys/posts/</loc>
     <lastmod>2024-11-05T23:12:25+09:00</lastmod>
   </url>
 </urlset>

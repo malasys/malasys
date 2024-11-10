@@ -2,11 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://localhost:1313/malasys/posts/</link>
+    <link>https://malasys.github.io/malasys/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 dob</copyright>
-    <lastBuildDate>Tue, 05 Nov 2024 23:12:25 +0900</lastBuildDate><atom:link href="http://localhost:1313/malasys/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Nov 2024 23:12:25 +0900</lastBuildDate><atom:link href="https://malasys.github.io/malasys/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about me</title>
+      <link>https://malasys.github.io/malasys/posts/about-me/</link>
+      <pubDate>Tue, 05 Nov 2024 23:12:25 +0900</pubDate>
+      
+      <guid>https://malasys.github.io/malasys/posts/about-me/</guid>
+      <description>&lt;p&gt;just1ssue&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>My First Posts</title>
+      <link>https://malasys.github.io/malasys/posts/my-first-posts/</link>
+      <pubDate>Tue, 05 Nov 2024 23:12:25 +0900</pubDate>
+      
+      <guid>https://malasys.github.io/malasys/posts/my-first-posts/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
