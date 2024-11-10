@@ -4,4 +4,4 @@ draft = false
 title = 'about me'
 +++
 
-just1ssue
+geek

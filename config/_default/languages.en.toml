@@ -9,14 +9,14 @@ title = ""
   rtl = false
   dateFormat = "2 January 2006"
   
-  description = "A powerful, lightweight theme for Hugo."
+  description = "Some kind of Magic."
 
 [params.author]
   name = "dob"
   email = ""
   image = "img/profile.png"
   headline = "Some kind of Magic."
-  bio = "A powerful, lightweight theme for Hugo."
+  bio = "Some kind of Magic."
   links = [
     { x-twitter = "https://twitter.com/" },
     { github = "https://github.com/malasys" },
